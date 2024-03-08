@@ -7,3 +7,7 @@
 **-Intuitive Interface:** With a clean and simplified interface, login elements are carefully organized to facilitate credential input and seamless navigation.
 
 **-Flexible Customization:** The HTML, CSS, and JavaScript source code are highly modular and easily customizable, allowing developers to adjust the design and behavior of the login page according to specific project needs.
+
+**Preview:**
+
+![](https://github.com/luisandrelemos/Animated-Login-Page/blob/main/loginpreview.gif)
