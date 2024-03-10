@@ -1,3 +1,4 @@
+#Animated Login Page
 **Modern** login page made with **HTML**, **CSS**, and **JavaScript** to provide users with a smooth and enjoyable authentication experience. With a minimalist and intuitive design, built with a focus on usability and contemporary aesthetics. This login page offers a secure and efficient way for users to access their accounts, whether it's on web applications, online platforms, or corporate systems.
 
 **Preview:**
